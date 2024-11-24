@@ -1,0 +1,28 @@
+object frmBorder: TfrmBorder
+  Left = 718
+  Height = 137
+  Top = 298
+  Width = 225
+  BorderStyle = bsNone
+  Caption = 'Border'
+  Color = clFuchsia
+  FormStyle = fsSystemStayOnTop
+  OnCreate = FormCreate
+  OnPaint = FormPaint
+  OnShow = FormShow
+  ShowInTaskBar = stNever
+  LCLVersion = '2.2.6.0'
+  object Timer: TTimer
+    Enabled = False
+    OnTimer = TimerTimer
+    Left = 24
+    Top = 16
+  end
+  object CloseTimer: TTimer
+    Enabled = False
+    Interval = 5000
+    OnTimer = CloseTimerTimer
+    Left = 72
+    Top = 16
+  end
+end
