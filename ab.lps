@@ -10,7 +10,7 @@
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="51" Y="23"/>
+        <CursorPos X="28" Y="16"/>
         <UsageCount Value="29"/>
         <Loaded Value="True"/>
       </Unit>
@@ -173,12 +173,11 @@
       <List Name="LaunchingApplication" Type="File" Count="1">
         <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
       </List>
-      <List Name="CommandLineParameters" Count="4">
+      <List Name="CommandLineParameters" Count="3">
         <Item1 Value="-c 110000"/>
         <Item2 Value="-y 10 -c 010101"/>
         <Item3 Value="-y 10"/>
       </List>
-      <List Name="WorkingDirectory" Type="File" Count="1"/>
     </HistoryLists>
   </ProjectSession>
 </CONFIG>

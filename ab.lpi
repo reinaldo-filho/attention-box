@@ -19,8 +19,8 @@
     <VersionInfo>
       <UseVersionInfo Value="True"/>
       <AutoIncrementBuild Value="True"/>
-      <MinorVersionNr Value="1"/>
-      <BuildNr Value="5"/>
+      <MajorVersionNr Value="1"/>
+      <BuildNr Value="8"/>
       <Language Value="0416"/>
       <StringTable CompanyName="Reinaldo Valeriano Filho" InternalName="Attention Box" ProductName="Attention Box"/>
     </VersionInfo>
